@@ -1,0 +1,24 @@
+--Epoch 0--
+E[0] [svhn] AUC1 Err : [0.403] ACC1 : [2.89]
+--Epoch 0--
+E[0] [lsun_resize] AUC1 Err : [0.567] ACC1 : [2.89]
+--Epoch 0--
+E[0] [imagenet_resize] AUC1 Err : [0.491] ACC1 : [2.89]
+--Epoch 0--
+E[0] [lsun_fix] AUC1 Err : [0.518] ACC1 : [2.89]
+--Epoch 0--
+E[0] [imagenet_fix] AUC1 Err : [0.410] ACC1 : [2.89]
+--Epoch 0--
+E[0] [cifar100] AUC1 Err : [0.387] ACC1 : [2.89]
+--Epoch 100--
+E[100] [svhn] AUC1 Err : [0.051] ACC1 : [9.45]
+--Epoch 100--
+E[100] [lsun_resize] AUC1 Err : [0.013] ACC1 : [9.45]
+--Epoch 100--
+E[100] [imagenet_resize] AUC1 Err : [0.025] ACC1 : [9.45]
+--Epoch 100--
+E[100] [lsun_fix] AUC1 Err : [0.064] ACC1 : [9.45]
+--Epoch 100--
+E[100] [imagenet_fix] AUC1 Err : [0.067] ACC1 : [9.45]
+--Epoch 100--
+E[100] [cifar100] AUC1 Err : [0.093] ACC1 : [9.45]
