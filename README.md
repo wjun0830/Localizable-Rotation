@@ -1,4 +1,7 @@
 # Tailoring Self-Supervision for Supervised Learning
+[![Arxiv]](https://arxiv.org/pdf/2207.10023.pdf)
+[![]]()
+
 Official PyTorch Repository of "Tailoring Self-Supervision for Supervised Learning" (ECCV 2022 Paper)
 <p align="center">
     <img src=figures/LoRot-I.png width="45%"> 
@@ -10,7 +13,12 @@ Official PyTorch Repository of "Tailoring Self-Supervision for Supervised Learni
 
 If you find this repository useful, please use the following entry for citation.
 ```
-
+@article{moon2022tailoring,
+  title={Tailoring Self-Supervision for Supervised Learning},
+  author={Moon, WonJun and Kim, Ji-Hwan and Heo, Jae-Pil},
+  journal={arXiv preprint arXiv:2207.10023},
+  year={2022}
+}
 ```
 
 ## Contributors and Contact
