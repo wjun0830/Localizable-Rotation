@@ -1,5 +1,5 @@
 # Tailoring Self-Supervision for Supervised Learning
-[Arxiv](https://arxiv.org/abs/2207.10023)
+[[Arxiv](https://arxiv.org/abs/2207.10023)] | [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850342.pdf)]
 []()
 
 Official PyTorch Repository of "Tailoring Self-Supervision for Supervised Learning" (ECCV 2022 Paper)
