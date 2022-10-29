@@ -13,11 +13,12 @@ Official PyTorch Repository of "Tailoring Self-Supervision for Supervised Learni
 
 If you find this repository useful, please use the following entry for citation.
 ```
-@article{moon2022tailoring,
+@inproceedings{moon2022tailoring,
   title={Tailoring Self-Supervision for Supervised Learning},
   author={Moon, WonJun and Kim, Ji-Hwan and Heo, Jae-Pil},
-  journal={arXiv preprint arXiv:2207.10023},
-  year={2022}
+  booktitle={European Conference on Computer Vision},
+  year={2022},
+  organization={Springer}
 }
 ```
 
